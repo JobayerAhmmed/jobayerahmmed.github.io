@@ -6,8 +6,8 @@
 * Machine Learning
 
 # Education
-**Bachelor of Science in Software Engineering, 2016**
-Institute of Information Technology, University of Dhaka
+**Bachelor of Science in Software Engineering, 2016**  
+Institute of Information Technology, University of Dhaka  
 CGPA: 3.61 out of 4
 
 # Professional Experience
