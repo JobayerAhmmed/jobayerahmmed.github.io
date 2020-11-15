@@ -1,6 +1,8 @@
+---
 layout: page
 title: Resume | Jobayer Ahmmed
 permalink: /resume/
+---
 
 # Research Interest
 * Software Engineering
