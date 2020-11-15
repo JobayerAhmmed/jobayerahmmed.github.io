@@ -1,6 +1,7 @@
 ---
 layout: default
-title:  "Utilize Git Stash | Jobayer Ahmmed"
+title:  "Utilize Git Stash"
+permalink: /utilize-git-stash/
 ---
 
 # Utilize Git Stash

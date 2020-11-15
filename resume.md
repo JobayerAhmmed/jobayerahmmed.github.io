@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume | Jobayer Ahmmed
+title: Resume
 permalink: /resume/
 ---
 
