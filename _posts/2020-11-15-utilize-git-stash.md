@@ -90,4 +90,4 @@ After executing this command, if you check the two files, you will see that the 
 
 That's it. You do not need to comment/uncomment those files anymore. From now on, you will just use `git stash apply 0/1` according to your need.
 
-You can find the example code [here](https://github.com/JobayerAhmmed/jobayerahmmed.github.io/examples/utilize-git-stash).
+You can find the example code <a href="https://github.com/JobayerAhmmed/jobayerahmmed.github.io/tree/master/examples/utilize-git-stash" target="_blank">here</a>.
